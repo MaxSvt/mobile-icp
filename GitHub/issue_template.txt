@@ -1,13 +1,16 @@
-—
-Name: engineering issue template 
-About: An engineering task
-Title: ‘ ‘
-Labels: ‘ ‘
 
-—
+name: engineering issue template 
+about: An engineering task
+title: ‘ ‘
+labels: ‘ ‘
+
+
 
 # Proposed Change 
+** Provide info about the change to be made **
 
 # Why is this important 
+** Why do we need to emplement this **
 
 # Additional Context 
+** Any information that might be helpful **
