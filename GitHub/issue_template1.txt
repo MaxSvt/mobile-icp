@@ -7,7 +7,10 @@ Labels: ‘ ‘
 —
 
 # Proposed Change 
+** Provide info about the change to be made **
 
 # Why is this important 
+** Why do we need to emplement this **
 
 # Additional Context 
+** Any information that might be helpful **
